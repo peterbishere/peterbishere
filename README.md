@@ -2,77 +2,53 @@
 
 **Eligibility Worker | Tech Enthusiast | Career Transitioner**
 
-🌍 **Hilo, Hawaii, United States**  
-🔗 **[LinkedIn](#)**  
-✉️ **Contact**: peter@example.com  
+🌍 **Hilo, Hawaii** | ✉️ **peter@example.com**
 
 ---
 
-### 🌟 About Me
+### 👨‍💼 About Me
 
-Aloha! I’m an experienced professional with over 13 years of service at the **State of Hawaii - Medquest Division**, where I specialized in Medicaid eligibility, policy interpretation, and public service. My career has been defined by my attention to detail, ability to simplify complex processes, and dedication to helping others. Now, I’m transitioning into the tech world, where I am excited to apply my problem-solving skills and passion for technology.
+I bring over 13 years of public service experience from the **State of Hawaii**, where I specialized in Medicaid eligibility, policy interpretation, and public service. Now transitioning into tech, I'm pursuing **Software QA Engineering** at **Careerist**, eager to apply my skills in technology-driven roles.
 
-As a former **President & CEO of Candoo Travel Corporation**, I honed my leadership skills, guiding a dynamic team through travel sales, marketing, and financial planning. I bring a wealth of experience in corporate efficiency, team building, and client relations.
-
-I'm currently enrolled in the **Software QA Engineering** program at **Careerist**, where I am gaining hands-on experience in quality assurance and software development. My goal is to contribute to the tech industry while continuing to help others through innovation, education, and service.
+Previously, as the **CEO of Candoo Travel Corporation**, I led a travel and financial services company, developing leadership, project management, and client relations expertise. With hands-on experience in cloud technologies, Python programming, and software testing, I'm well-positioned to make impactful contributions to the tech industry.
 
 ---
 
-### 💼 Professional Experience
+### 💼 Experience Highlights
 
-**Eligibility Worker**  
-*State of Hawaii - Medquest Division*  
-*June 2011 - May 2024 | Hilo, Hawaii, United States*  
-- Managed Medicaid eligibility processes and provided program support for 13 years.  
-- Known for accuracy in policy interpretation and delivering high-quality public service.
+**Eligibility Worker** – *State of Hawaii, Medquest Division*  
+*2011 - 2024*  
+- Led Medicaid eligibility processes, known for accuracy in policy application and client service.
 
-**President & CEO**  
-*Candoo Travel Corporation*  
-*July 2007 - June 2013 | Hawaii, United States*  
-- Led a travel sales and financial planning corporation, overseeing corporate operations and marketing strategies.  
-- Directed presentations, tax filings, and budgeting, while fostering team growth.
-
-**Consultant**  
-*Genuine Consultancy*  
-*March 2007 - March 2012 | Hawaii County, Hawaii*  
-- Provided financial counseling and consultancy for small businesses and clients, with a focus on detailed project execution.
+**President & CEO** – *Candoo Travel Corporation*  
+*2007 - 2013*  
+- Directed operations and financial planning, while managing corporate growth and team performance.
 
 ---
 
 ### 🎓 Education & Certifications
 
-- **Software QA Engineering** – *Careerist*  
-- **AWS Cloud Solutions Architect** – *Amazon Web Services (AWS)*  
-- **Google Cybersecurity Professional Certificate** – *Coursera*  
-- **Google IT Automation with Python** – *Coursera*  
-- **Six Sigma Green Belt & Yellow Belt**  
-- **Bachelor of Arts in Communication & Media Studies** – *California State University, Chico*
+- **Software QA Engineering** – *Careerist*
+- **AWS Cloud Solutions Architect** – *AWS*
+- **Google Cybersecurity** – *Coursera*
+- **Six Sigma Green Belt**  
+- **BA in Communication & Media Studies** – *CSU, Chico*
 
 ---
 
 ### 🛠️ Skills
 
-- **Software Quality Assurance**  
-- **AWS Cloud Solutions**  
-- **Python Programming**  
-- **Google Data Analytics**  
-- **Scrum Master Certification**  
-- **Public Speaking & Presentations**  
-- **Leadership & Project Management**
+- **Software QA & Testing**
+- **AWS Cloud Solutions**
+- **Python Programming**
+- **Google Data Analytics**
+- **Scrum & Agile Methodologies**
 
 ---
 
-### 🚀 Tech Journey & Vision
+### 💡 Vision
 
-My journey into the tech world is fueled by a passion for innovation and a desire to make meaningful contributions. My ultimate aspiration is to leverage technology to address global challenges such as hunger, sustainability, and education.
-
-In a world where technology and compassion intersect, I stand ready to bring positive change. With a heart for service and a commitment to lifelong learning, I’m excited to take on new challenges in the tech space.
-
----
-
-### 🌎 Personal Insights
-
-I’m a seasoned traveler, having explored over 30 countries and 15 U.S. states, which has enriched my understanding of diverse cultures. As a culinary school graduate and a yoga and tai chi practitioner for over 20 years, I strive for balance in all aspects of life.
+I’m passionate about using technology to solve real-world problems, with a focus on innovation, sustainability, and education. My aim is to bring a positive impact to every project and team I engage with.
 
 ---
 
@@ -80,5 +56,3 @@ I’m a seasoned traveler, having explored over 30 countries and 15 U.S. states,
 
 - **LinkedIn**: [Connect with me](#)  
 - **Email**: peter@example.com  
-
-I’m always open to networking, collaboration, and opportunities where I can make impactful contributions in the tech world. Let's connect!
