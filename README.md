@@ -2,7 +2,7 @@
 
 **Eligibility Worker | Tech Enthusiast | Career Transitioner**
 
-🌍 **Hilo, Hawaii** | ✉️ **peter@example.com**
+🌍 **Hilo, Hawaii** | ✉️ **peterbishere@gmail.com**
 
 ---
 
