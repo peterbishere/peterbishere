@@ -1,58 +1,67 @@
-# 👋 Aloha! I'm Peter Barrere
-
-**Eligibility Worker | Tech Enthusiast | Career Transitioner**
-
-🌍 **Hilo, Hawaii** | ✉️ **peterbishere@gmail.com**
-
----
-
-### 👨‍💼 About Me
-
-I bring over 13 years of public service experience from the **State of Hawaii**, where I specialized in Medicaid eligibility, policy interpretation, and public service. Now transitioning into tech, I'm pursuing **Software QA Engineering** at **Careerist**, eager to apply my skills in technology-driven roles.
-
-Previously, as the **CEO of Candoo Travel Corporation**, I led a travel and financial services company, developing leadership, project management, and client relations expertise. With hands-on experience in cloud technologies, Python programming, and software testing, I'm well-positioned to make impactful contributions to the tech industry.
+# Peter Christian Barrere
+**Phone**: (808) 333-7265  |  **Email**: [peterbarrere@gmail.com](mailto:peterbarrere@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/peter-barrere-1812a858) | [GitHub](https://github.com/petershire)  
+P.O. Box 10667, Hilo, HI 96721
 
 ---
 
-### 💼 Experience Highlights
-
-**Eligibility Worker** – *State of Hawaii, Medquest Division*  
-*2011 - 2024*  
-- Led Medicaid eligibility processes, known for accuracy in policy application and client service.
-
-**President & CEO** – *Candoo Travel Corporation*  
-*2007 - 2013*  
-- Directed operations and financial planning, while managing corporate growth and team performance.
+## Professional Objective
+Seeking a challenging position that offers opportunities for growth, learning, and advancement. I aim to leverage my attention to detail, problem-solving skills, and technical aptitude to contribute to a motivated, goal-oriented team within an organization committed to excellence.
 
 ---
 
-### 🎓 Education & Certifications
+## Professional Profile
+Well-rounded professional with policy and software expertise. Known as the "Question Guy"—quickly formulating relevant questions for complex policy and software updates. With a focus on client outcomes, my “hair-splitting” precision, attention to detail, and problem-solving approach has improved countless lives. Specializes in bridging communication gaps between experts and non-specialists. A motivating team player, consistently sought out across the state for going above and beyond for colleagues, supervisors, clients, advocates, and partner agencies.
 
-- **Software QA Engineering** – *Careerist*
-- **AWS Cloud Solutions Architect** – *AWS*
-- **Google Cybersecurity** – *Coursera*
-- **Six Sigma Green Belt**  
-- **BA in Communication & Media Studies** – *CSU, Chico*
+### Skills
+- **Excellent Written and Verbal Communication**
+- **Self-Motivated, Proactive, Enthusiastic**
+- **Culturally Sensitive and Adept**
+- **Mature, Respectful, Compassionate**
+- **Client Service Specialist**
+- **Team Player, Dependable Coworker**
+- **Problem Solving, Critical Thinking**
+- **Meticulous Data Analysis**
+- **Decision Making**
+- **Troubleshooting, Insight Generation**
+- **Process Improvement, Strategic Planning**
+- **Quick Learner with Adaptability**
+- **Analytical Thinking, Attention to Detail**
+
+### Tools & Technologies
+- Windows, Mac, Linux, Oracle, SQL, Python, Jira, TestRail, Selenium, AWS
+- CyberSecurity, Cloud Infrastructure, Wireshark, GRC, HIPAA, Data Analytics
+- Six Sigma Yellow and Green Belts, Lean, Microsoft 365, Adobe Acrobat
+- Google Sheets, Agile, Scrum, Medicaid Policy and Software Expert
 
 ---
 
-### 🛠️ Skills
+## Employment
 
-- **Software QA & Testing**
-- **AWS Cloud Solutions**
-- **Python Programming**
-- **Google Data Analytics**
-- **Scrum & Agile Methodologies**
-
----
-
-### 💡 Vision
-
-I’m passionate about using technology to solve real-world problems, with a focus on innovation, sustainability, and education. My aim is to bring a positive impact to every project and team I engage with.
+### **06/11 - Present**  
+**State of Hawaii Department of Human Services, Hilo, HI**  
+*Eligibility Worker III (Medicaid Welfare Worker)*  
+- Assisted 1000s of families, impacting and improving people’s lives daily. 
+- Expert in Hawaii Administrative Rules (HAR) policy and KOLEA (custom Oracle) software, dealing with HIHIPAA regulations, PII, and SPII.
+- Actively contributed to software user acceptance testing, created functional test scripts, and managed issue tracking with developers and stakeholders.
 
 ---
 
-### 📫 Let's Connect
+### **11/07 - 11/09**  
+**State of Hawaii Department of Human Services, BESSD, Kapaa, HI**  
+*Eligibility Worker II (Food Stamp, Financial Welfare Worker)*  
+- Managed caseloads of 300 cases, demonstrating excellent organizational and case management skills.
+- Used excellent communication skills in explaining program requirements and collaborated effectively with coworkers, contributing to a positive and productive work environment.
 
-- **LinkedIn**: [Connect with me](#)  
-- **Email**: peter@example.com  
+---
+
+### **07/07 - 06/13**  
+**CANDOO Travel Corporation**  
+*President and CEO*  
+- Managed a C Corporation involved in Multi-Level Marketing sales of travel-related services, showing leadership and strategic planning skills.
+- Developed marketing strategies, recruited and trained team members, and delivered impactful presentations.
+
+---
+
+## Additional Information
+Looking to leverage strong communication, analytical, and technical skills in a dynamic team environment. Open to new roles and ready to contribute to organizational growth and efficiency.
