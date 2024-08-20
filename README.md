@@ -22,14 +22,11 @@
 
 <ul style="font-family: Arial, sans-serif;">
   <li><strong>Excellent Written and Verbal Communication</strong></li>
-  <li><strong>Self-Motivated, Proactive, Enthusiastic</strong></li>
   <li><strong>Culturally Sensitive and Adept</strong></li>
-  <li><strong>Mature, Respectful, Compassionate</strong></li>
   <li><strong>Client Service Specialist</strong></li>
   <li><strong>Team Player, Dependable Coworker</strong></li>
   <li><strong>Problem Solving, Critical Thinking</strong></li>
   <li><strong>Meticulous Data Analysis</strong></li>
-  <li><strong>Decision Making</strong></li>
   <li><strong>Troubleshooting, Insight Generation</strong></li>
   <li><strong>Process Improvement, Strategic Planning</strong></li>
   <li><strong>Quick Learner with Adaptability</strong></li>
@@ -105,9 +102,13 @@
 <h2>Certifications</h2>
 <ul style="font-family: Arial, sans-serif;">
   <li>AWS Cloud Solutions Architect (Amazon Web Services)</li>
+  <li>AWS Cloud Technology Consultant (Amazon Web Services)</li>
   <li>Google Data Analytics (Google)</li>
+  <li>Google Data Cybersecurity (Google)</li>
+  <li>Google IT Automation with Python (Google)</li>
   <li>Six Sigma Yellow Belt</li>
   <li>Six Sigma Green Belt</li>
+  
 </ul>
 
 <hr>
