@@ -2,7 +2,7 @@
 
 <p style="text-align: center;">
   <strong>Phone</strong>: (808) 333-7265 | <strong>Email</strong>: <a href="mailto:peterbarrere@gmail.com">peterbarrere@gmail.com</a><br>
-  <a href="https://linkedin.com/in/peter-barrere-1812a858">LinkedIn</a> | <a href="https://github.com/petershire">GitHub</a><br>
+  <a href="https://www.linkedin.com/in/peterishere/">LinkedIn</a> | <a href="https://github.com/peterbishere">GitHub</a><br>
   P.O. Box 10667, Hilo, HI 96721
 </p>
 
